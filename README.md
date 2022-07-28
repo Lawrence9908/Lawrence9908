@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lawrence Mugwena</h1>
-<h3 align="center">A passionate Software Developer from South Afrika</h3>
+<h3 align="center">A passionate Software Engineer from South Afrika</h3>
 <img width="400" align="rignt" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawrence9908&label=Profile%20views&color=0e75b6&style=flat" alt="lawrence9908" /> </p>
